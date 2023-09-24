@@ -4,4 +4,4 @@ This project focuses on document clustering, a practical field used in various d
 
 The dataset is a collection of news articles from different categories, and the algorithms are evaluated using external metrics like purity, entropy, homogeneity, and completeness. Data preprocessing, exploratory data analysis, TF-IDF, dimension reduction, and selecting the number of clusters are discussed as essential steps before clustering. The project presents comparisons of partitioning, hierarchical, density-based, model-based, and graph-based, clustering methods.
 
-![Uploading image.png…]()
+
